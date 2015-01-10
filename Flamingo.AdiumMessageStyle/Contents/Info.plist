@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AllowTextColors</key>
+	<true/>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleGetInfoString</key>
+	<string>Flamingo v1</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.adiumx.Flamingo</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>1.0</string>
+	<key>CFBundleName</key>
+	<string>Flamingo</string>
+	<key>CFBundlePackageType</key>
+	<string>AdIM</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0.0</string>
+	<key>DefaultFontFamily</key>
+	<string>Helvetica Neue</string>
+	<key>DefaultFontSize</key>
+	<integer>13</integer>
+	<key>DefaultVariant</key>
+	<string>Default</string>
+	<key>DisableCombineConsecutive</key>
+	<false/>
+	<key>DisableCustomBackground</key>
+	<false/>
+	<key>MessageViewVersion</key>
+	<integer>4</integer>
+	<key>ShowsUserIcons</key>
+	<true/>
+</dict>
+</plist>
