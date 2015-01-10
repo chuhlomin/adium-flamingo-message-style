@@ -1,0 +1,1 @@
+# adium-flamingo-message-style
